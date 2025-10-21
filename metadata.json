@@ -1,0 +1,5 @@
+{
+  "name": "A-NIMEX",
+  "description": "A responsive website showcasing the 100 most popular anime movies from 2000-2025, complete with trailers, cast details, and creator information. Features a simulated login and sign-up system.",
+  "requestFramePermissions": []
+}
